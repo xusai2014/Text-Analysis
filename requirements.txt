@@ -1,0 +1,7 @@
+requests
+bs4
+pdfminer.six
+jieba
+wordcloud
+Pillow
+matplotlib
